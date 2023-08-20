@@ -1,3 +1,3 @@
-# RefreshTokenandRestful
-1. JWT Token + Rest api 구현
+# RefreshToken
+1. JWT Token 구현 
 
